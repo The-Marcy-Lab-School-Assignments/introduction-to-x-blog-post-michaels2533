@@ -144,12 +144,14 @@ Props are used to pass data to child components. Here is an example.
 
 ```js
 function Greeting({name}) {
-    return <h1>Hey!,{name}</h1>
+    return <h1>Hey there! ,{name}</h1>
 }
 
 // In the parent component.
 <Greeting name="John"/>
 ```
+
+Here I passed down the name prop to the **Greeting** component. After that, I destructured the name prop from the object and called it within the component.
 ## Compare and Contrast
 
 * For programming languages: What are the key differences between the new language and JavaScript? What are the commonalities?

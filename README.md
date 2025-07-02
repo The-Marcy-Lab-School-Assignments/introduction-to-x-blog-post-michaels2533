@@ -158,11 +158,46 @@ Here I passed down the name prop to the **Greeting** component. After that, I de
 * For frameworks (including React and Express): What are the alternatives to this framework? Can you compare this framework to anything we've learned in the Core Curriculum? What are the tradeoffs when choosing this framework compared to the alternatives?
 
 
-## Compare and Contrast: Why use ReactJs instead of VanillaJS? 
+## Why use ReactJs instead of VanillaJS? 
+
+You're probably thinking by now, What's the pont of learning this framework instead of developing everything with VanillaJS. Here I will provide a brief rundown of the advantages and disadvantages of ReactJS
+
+The Advantages of ReactJS: 
+
+**Component-Based**: Reacts component-based architecture stresses reusability and modularity, making it easier to build and maintain complex UIs.
+
+**Virtual DOM**: React leverages a Virtual DOM: which enables efficient updates and render changes to the UI.
+
+**Active Developer Community**: There is a large active developer community, which means plenty of learning resources, libraries and tools available. The community support can 
+facilitate your learning, find solutions to problems, stay-up-to-date with best practices, and contribute to a growing ecosystem.
+
+**SEO-Friendly**: React comes bundled with server-side rendering(SSR) that improves search engine optimization by rendering pages on the server and delivering pre-rendered HTML to the search engine. This promotes discoverability and indexing of your website.
 
 
-## Conclusion & Tips for learning this language/framework.
+The Disadvantages of ReactJS:
 
-* Wrap things up
-* Provide links to resources that you used to help you learn the language.
+With all frameworks, there are tradeoffs to keep in mind and sometimes VanillaJS is your better option.
 
+**Learning Curve**: React has a steeper learning curve compared to simpler frameworks or libraries i.e VanillaJS. Understanding concepts like reusable components
+and JSX may take time for beginners who are new to the React ecosystem.
+
+**Complex Tooling**: React ecosystem has a variety of tools, build systems and libraries available. That can sometimes make it overwhelming to select the right tools and setup the development environment. 
+
+**Performance/Memory**: React is framework that requires various dependencies to compile the project. That can raise concerns in the development of certain applications that have memory/performance constraints. Therefore, choosing a paradigm like VanillaJS would be the better choice.
+
+
+## Conclusion & Tips
+
+React is an incredibly powerful tool for building modern dynamic web applications. Whether your a beginner with JavaScript or familiar with it.
+React has something for every level of developer. Make sure to solidify your understanding by building small projects. I will link some resources that helped me on my journey.
+
+
+**Free Resources**
+
+Official React Documentation: https://react.dev/learn
+
+Codeacademy React Course: https://www.codecademy.com/learn/react-101
+
+**Paid Resources**
+
+Educative React Course: https://www.educative.io/courses/react-beginner-to-advanced

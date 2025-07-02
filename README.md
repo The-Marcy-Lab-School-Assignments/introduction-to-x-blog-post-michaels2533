@@ -13,13 +13,6 @@ If you're totally new to React, don't fret!. In this tutorial, I will walkthroug
 how to setup a React project and compare and contrast between using React and plain VanillaJS to build 
 interactive user websites. 
 
-
-## Core syntax/features. 
-
-* For programming languages: data types, variables, code blocks, functions, conditionals, arrays and objects, and iteration. Include code snippets with explanations.
-
-* For frameworks (including React and Express): setup/installation/configurations, core concepts, key methods or approaches. Include code snippets with explanations.
-
 ## Configuring your React Development Environment. 
 Before we can dive into learning about React, you'll need to setup your development environment to get started with React. Here's a brief rundown.
 
